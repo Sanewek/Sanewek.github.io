@@ -13,5 +13,35 @@
           "id": "c-3",
           "title": "Бойовики",
            "color": "Colors.blue"
+     },
+    {
+          "id": "c-4",
+          "title": "Триллери",
+           "color": "Colors.blue"
+     },
+    {
+          "id": "c-5",
+          "title": "Фантастика",
+           "color": "Colors.blue"
+     },
+  {
+          "id": "c-6",
+          "title": "Історичні",
+           "color": "Colors.blue"
+     },
+  {
+          "id": "c-7",
+          "title": "Документальні",
+           "color": "Colors.blue"
+     },
+  {
+          "id": "c-8",
+          "title": "Драми",
+           "color": "Colors.blue"
+     },
+  {
+          "id": "c-9",
+          "title": "Всетерни",
+           "color": "Colors.blue"
      }
   ]
