@@ -2,42 +2,42 @@
      {
           "id": "c-1",
           "title": "Жахи",
-           "color": "blue"
+           "color": "Colors.blue"
      },
      {
           "id": "c-2",
           "title": "Комедії",
-           "color": "blue"
+           "color": "Colors.blue"
      },
      {
           "id": "c-3",
           "title": "Бойовики",
-           "color": "blue"
+           "color": "Colors.blue"
      },
     {
           "id": "c-4",
           "title": "Триллери",
-           "color": "blue"
+           "color": "Colors.blue"
      },
     {
           "id": "c-5",
           "title": "Фантастика",
-           "color": "blue"
+           "color": "Colors.blue"
      },
   {
           "id": "c-6",
           "title": "Історичні",
-           "color": "blue"
+           "color": "Colors.blue"
      },
   {
           "id": "c-7",
           "title": "Документальні",
-           "color": "blue"
+           "color": "Colors.blue"
      },
   {
           "id": "c-8",
           "title": "Драми",
-           "color": "blue"
+           "color": "Colors.blue"
      },
   {
           "id": "c-9",
