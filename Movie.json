@@ -7,7 +7,7 @@
      {
           "id": "c-2",
           "title": "Комедії",
-           "color": Colors.blue
+           "color": "Colors.blue"
      },
      {
           "id": "c-3",
