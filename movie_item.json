@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "title": "Home Alone",
+    "description": "New Year Movie",
+    "year": "1990",
+    "categories": [
+      "c-1",
+      "c-2",
+      "c-3",
+      "c-4",
+      "c-5",
+      "c-6",
+      "c-7",
+      "c-8",
+      "c-9"
+    ]
+  },
+   {
+    "id": "02",
+    "title": "Die hard",
+    "description": "New Year Action Movie",
+    "year": "1989",
+    "categories": [
+      "c-1",
+      "c-2",
+      "c-7",
+      "c-8",
+      "c-9"
+    ]
+  }
+]  
