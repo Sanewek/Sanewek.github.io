@@ -1,0 +1,27 @@
+{"results" : [
+  {
+    "id": "01",
+    "title": "Каліфорнія",
+    "descriptions": "Багато лосося і ніжний сир",
+    "price": "250",
+    "quantity": "1",
+    "imgUrl": "https://cdn-media.choiceqr.com/prod-eat-ulov1/menu/efwnJmC-XClBDIB-DdqaCFJ.jpeg"
+  },
+   {
+    "id": "02",
+    "title": "Філадельфія",
+    "descriptions": " З Вугрем і Багато лосося",
+    "price": "350",
+    "quantity": "1",
+    "imgUrl":"https://cdn-media.choiceqr.com/prod-eat-ulov1/menu/efwnJmC-XClBDIB-DdqaCFJ.jpeg"
+  },
+  {
+    "id": "03",
+    "title": "Філадельфія максі",
+    "descriptions": "Багато лосося",
+    "price": "550",
+    "quantity": "1",
+    "imgUrl": "https://cdn-media.choiceqr.com/prod-eat-ulov1/menu/efwnJmC-XClBDIB-DdqaCFJ.jpeg"
+  }
+]  
+}
